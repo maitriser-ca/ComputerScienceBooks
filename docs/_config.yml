@@ -1,11 +1,9 @@
-title: Your awesome title
+title: informatique.maitriser.ca
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: SerafDosSantos
+  email: info@maitriser.ca
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sous-site de maitriser.ca où vous trouverez des documents libre d'accès sur le thème des sciences informatiques en français.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: serafdossantos
+    github:  SerafDosSantos
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
