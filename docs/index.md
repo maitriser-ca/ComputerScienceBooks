@@ -6,9 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Documents éducatifs sur les sciences informatiques
 ---
 
-# informatique.maitriser.ca
+Cette page contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seul les documents en français s'y retrouvent.
 
 ### Index
 
