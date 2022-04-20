@@ -9,9 +9,15 @@ layout: home
 title: Documents éducatifs sur les sciences informatiques
 ---
 
-Cette page contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seul les documents en français s'y retrouvent.
+Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
 
-### Index
+Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seuls les documents en français s’y retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des cours et des guides sous plusieurs thèmes des TIs.
+
+Toujours en français et gratuit !
+
+---
+
+## Index
 
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
