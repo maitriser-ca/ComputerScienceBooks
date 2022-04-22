@@ -11,6 +11,9 @@ title: Documents éducatifs sur les sciences informatiques
 
 Un regroupement de documents informatifs et éducatifs sur les technologies de l'information.
 
+![](assets/florian-klauer-mk7D-4UCfmg-unsplash-FHD-B.png)
+Photo by <a href="https://unsplash.com/@florianklauer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Klauer</a> on <a href="https://unsplash.com/@citadin5/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 Ce sous-site contient un extrait du référentiel [github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) où seuls les documents en français s’y retrouvent. Offrant généralement des livres sur la programmation informatique, on y trouve aussi des cours et des guides sous plusieurs thèmes des TIs.
 
 Toujours en français et gratuit !
