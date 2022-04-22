@@ -354,3 +354,18 @@ Toujours en français et gratuit !
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
 * [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
+
+<style type="text/css" media=screen>
+<!--
+h1, h2, h3, p, img {
+  text-align: center;
+}
+h3 {
+  padding: 22px;
+  background-color: #eeeeee;
+}
+header.site-header, footer.site-footer {
+  display: visible;
+}
+-->
+</style>
